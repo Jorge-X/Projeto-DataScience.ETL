@@ -8,6 +8,18 @@ Exploração dos dados do arquivo CSV para entender sua estrutura, variáveis e 
 Identificação de padrões, tendências e insights nos dados relacionados a cancelamentos de cartões de crédito.
 Pré-processamento de Dados (Data Preprocessing):
 
+### Python Programming:
+Uso da linguagem Python para todas as etapas, desde a leitura do CSV até a geração de gráficos e análises.
+
+### ETL (Extract, Transform, Load):
+Extração dos dados do arquivo CSV.
+Transformação dos dados para prepará-los para análise e visualização.
+Carregamento dos dados processados para o ambiente de análise.
+
+### Aprendizado de Máquina (Machine Learning):
+Aplicação de técnicas de aprendizado de máquina para identificar padrões ou prever cancelamentos de cartões de crédito.
+Treinamento de modelos preditivos usando algoritmos como Regressão, Classificação, etc.
+
 ### Limpeza dos dados, incluindo tratamento de valores ausentes, duplicados ou inconsistentes.
 Normalização ou padronização de dados para garantir uniformidade.
 Conversão de tipos de dados, se necessário.
@@ -16,25 +28,13 @@ Conversão de tipos de dados, se necessário.
 Geração de gráficos (como gráficos de barras) para representar os dados de forma visual e compreensível.
 Utilização de ferramentas como plotly.
 
-### Aprendizado de Máquina (Machine Learning):
-Aplicação de técnicas de aprendizado de máquina para identificar padrões ou prever cancelamentos de cartões de crédito.
-Treinamento de modelos preditivos usando algoritmos como Regressão, Classificação, etc.
-
-###ETL (Extract, Transform, Load):
-Extração dos dados do arquivo CSV.
-Transformação dos dados para prepará-los para análise e visualização.
-Carregamento dos dados processados para o ambiente de análise.
-
-### Python Programming:
-Uso da linguagem Python para todas as etapas, desde a leitura do CSV até a geração de gráficos e análises.
-
 ### Compreensão do Domínio:
 Entendimento do domínio de cartões de crédito e dos fatores que podem levar ao cancelamento.
 
 ### Comunicação e Relatório:
 Compartilhamento dos insights obtidos por meio de apresentações, relatórios ou outros meios de comunicação.
 
-#Conclusão:
+# Conclusão:
 ## Entre as principais causas estão:
 
 ### Contatos frequentes:
